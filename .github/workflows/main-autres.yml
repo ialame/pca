@@ -1,4 +1,4 @@
-name: Second workfow
+name: Second workfow 2
 on: [push]
 jobs:
   checkout:
