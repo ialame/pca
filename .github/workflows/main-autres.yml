@@ -6,4 +6,6 @@ jobs:
     steps:
        - run: ls
        - uses: actions/checkout@v4
-       - run: ls
+         with:
+           sparse-checkout: .
+          
