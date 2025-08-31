@@ -16,4 +16,6 @@ jobs:
           echo "$NIVEAU_WORKFLOW"
           echo "$NIVEAU_JOB"
           echo "$NIVEAU_ETAPE"
+          echo VAR_4 $VAR_4
+          echo SECRET_1 $SECRET_1
           
